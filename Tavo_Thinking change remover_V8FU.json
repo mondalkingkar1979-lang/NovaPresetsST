@@ -1,0 +1,1 @@
+{"id":"fbd4eeb9-0aab-4a09-94de-5d19814810aa","scriptName":"Think","findRegex":"/<(think|thinking|reasoning)>([\\s\\S]*?)<\\/\\1>/g","replaceString":"","trimStrings":[],"placement":[2],"disabled":false,"markdownOnly":true,"promptOnly":false,"runOnEdit":false,"substituteRegex":0,"minDepth":null,"maxDepth":null}

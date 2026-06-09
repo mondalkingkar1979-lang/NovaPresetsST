@@ -1,0 +1,1 @@
+{"id":"e7dbbe33-e5d6-47ca-a0f9-a4b5ede73f78","scriptName":"Hide Plot Summary","findRegex":"<details>\\s*<summary>Plot Momentum<\\/summary>[\\s\\S]*?<\\/details>","replaceString":"","trimStrings":[],"placement":[2],"disabled":false,"markdownOnly":true,"promptOnly":false,"runOnEdit":false,"substituteRegex":0,"minDepth":null,"maxDepth":null}
